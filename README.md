@@ -14,5 +14,11 @@
 7. [PHP](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.php)
 8. [HTML](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.html)
 9. [Elixir](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.ex)
+10. [Pascal](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.pas)
+11. [C#](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.cs)
+12. [Ruby](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.rb)
+13. [Scala](https://github.com/srbcheema1/Hello_world/blob/master/helloworld.scala)
+14. [Brainfuck](https://github.com/srbcheema1/Hello_world/blob/master/helloworld.bf)
+15. [Perl](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.pl)
 
 
