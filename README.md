@@ -20,5 +20,6 @@
 13. [Scala](https://github.com/srbcheema1/Hello_world/blob/master/helloworld.scala)
 14. [Brainfuck](https://github.com/srbcheema1/Hello_world/blob/master/helloworld.bf)
 15. [Perl](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.pl)
-
+16. [Swift](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.swift)
+17. [C#](https://github.com/srbcheema1/Hello_world/blob/master/helloworld.cs)
 
