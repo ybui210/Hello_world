@@ -22,4 +22,5 @@
 15. [Perl](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.pl)
 16. [Swift](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.swift)
 17. [C#](https://github.com/srbcheema1/Hello_world/blob/master/helloworld.cs)
+18. [Ponylang](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.pony)
 
