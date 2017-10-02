@@ -1,0 +1,29 @@
+To run your program in D you should do the following things: -
+1. Download the D compiler form the internet 
+2. Run the program as follows.
+
+On windows: -
+Now we can build and run a d file say helloWorld.d by switching to folder containing the file using cd and then using the following steps −
+
+C:\DProgramming> DMD helloWorld.d 
+C:\DProgramming> helloWorld
+We can see the following output.
+
+hello world
+
+
+On ubuntu: -
+Now we can build and run a d file say helloWorld.d by switching to folder containing the file using cd and then using the following steps −
+
+$ dmd helloWorld.d 
+$ ./helloWorld
+We can see the following output.
+
+$ hello world 
+
+
+On Mac OS X: -
+Similar to ubuntu.
+
+
+3.
