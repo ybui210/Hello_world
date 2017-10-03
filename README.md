@@ -40,4 +40,5 @@
 32. [jsFuck](https://github.com/srbcheema1/Hello_world/blob/master/hello_world_jsfuck.js)
 33. [lolcode](https://github.com/srbcheema1/Hello_world/blob/master/helloworld.lol)
 34. [Ponylang](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.pony)
-35. [Kotlin](https://github.com/srbcheema1/Hello_world/blob/master/Hello_world.kt)
+35. [Verilog](https://github.com/srbcheema1/Hello_world/blob/master/hello_world.v)
+36. [Kotlin](https://github.com/srbcheema1/Hello_world/blob/master/Hello_world.kt)
