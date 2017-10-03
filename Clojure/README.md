@@ -53,4 +53,4 @@ Hello, Dean!
 Hello, Brock!
 ```
 
-Just as Clojure as easy interop with Java, ClojureScript has easy interop with JavaScript.
+Just as Clojure has easy interop with Java, ClojureScript has easy interop with JavaScript.
