@@ -1,0 +1,15 @@
+#!/usr/bin/env lumo
+;; -*- clojure -*-
+
+(def process (js/require "process"))
+
+(def args (.slice (.-argv process) 3))
+
+(defn greet [name]
+  (println (str "Hello, " name "!")))
+
+(if (empty? args)
+  (greet "World")
+  (doseq [name args]
+    (greet name)))
+
